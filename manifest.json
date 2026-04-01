@@ -2,10 +2,10 @@
   "domain": "infinitecampus",
   "name": "Infinite Campus",
   "config_flow": true,
-  "documentation": "https://github.com/schwartzpub/infinite_campus_hassio",
-  "issue_tracker": "https://github.com/schwartzpub/infinite_campus_hassio/issues",
+  "documentation": "https://github.com/johntdyer/infinite_campus_hassio",
+  "issue_tracker": "https://github.com/johntdyer/infinite_campus_hassio/issues",
   "requirements": [],
-  "codeowners": ["@schwartzpub"],
+  "codeowners": ["@johntdyer"],
   "iot_class": "local_polling",
-  "version": "0.7.0"
+  "version": "0.8.0"
 }
