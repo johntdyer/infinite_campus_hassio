@@ -4,8 +4,9 @@
   "config_flow": true,
   "documentation": "https://github.com/johntdyer/infinite_campus_hassio",
   "issue_tracker": "https://github.com/johntdyer/infinite_campus_hassio/issues",
-  "requirements": ["ic-parent-api"],
+    "requirements": ["ic_parent_api==0.0.16"],
+
   "codeowners": ["@johntdyer"],
   "iot_class": "local_polling",
-  "version": "0.8.0"
+  "version": "0.9.0"
 }
