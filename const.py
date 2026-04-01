@@ -4,7 +4,7 @@ from datetime import timedelta
 
 NAME = "Infinite Campus"
 DOMAIN = "infinitecampus"
-VERSION = "0.0.6"
+VERSION = "0.0.7"
 
 HA_SENSOR = ["sensor"]
 
